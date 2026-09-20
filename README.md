@@ -5,7 +5,7 @@ Repository for Capstone Project of "Meta Database Engineer" [From here](https://
 ## Requirements
 
 <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Microsoft Excel" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg?utm_source=ar.wikipedia.org&utm_campaign=index&utm_content=original" alt="Microsoft Excel" width="40" height="40" />
 </a>
 &nbsp;
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank">
